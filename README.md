@@ -1,3 +1,3 @@
 # Homepage
 
-![Demo Preview](/src/screenshot.jpg)
+![Demo Preview](src/screenshot.jpg)
